@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>PodCask</title>
+        <link>http://connect.beamsuntory.com</link>
+        <language>en-us</language>
+        <copyright>&#xA9;2018</copyright>
+        <webMaster>tony.maguire@beamsuntory.com (Tony Maguire)</webMaster>
+        <managingEditor>tony.maguire@beamsuntory.com (Tony Maguire)</managingEditor>
+        <image>
+            <!-- this url resolves to a 'preview not available' image -->
+            <!-- i don't think this is what you want... -->
+            <url>http://dal.beamsuntory.com/thumbnail/95e965c3-04c9-478b-a05f-2777766beaba/ad/600px/ecfffba5-fddd-44e3-aefa-aebb21bb4a91.jpg?t=1541387911920&amp;s=c695a00fa624e18958add39c5aa0f3cdbc998b7a</url>
+            <title>Beam Suntory Logo</title>
+            <link>http://connect.beamsuntory.com</link>
+        </image>
+        <description>Beam Suntory Brand Education</description>
+        <pubDate>Sun, 04 Nov 2018 00:00:00 EST</pubDate>
+        <lastBuildDate>Sun, 04 Nov 2018 00:00:00 EST</lastBuildDate>
+        <itunes:owner>
+            <itunes:name>Tony Maguire</itunes:name>
+            <itunes:email>tony.maguire@beamsuntory.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Beam Suntory</itunes:author>
+        <itunes:subtitle>Beam Suntory</itunes:subtitle>
+        <description>Beam Suntory Brand Education</description>
+        <itunes:summary>Beam Suntory Brand Education</itunes:summary>
+        <!-- this url resolves to a 'preview not available' image -->
+        <!-- i don't think this is what you want... -->
+        <itunes:image href="http://dal.beamsuntory.com/thumbnail/95e965c3-04c9-478b-a05f-2777766beaba/ad/600px/ecfffba5-fddd-44e3-aefa-aebb21bb4a91.jpg?t=1541387911920&amp;s=c695a00fa624e18958add39c5aa0f3cdbc998b7a" />
+        <itunes:category text="Food" />
+        <itunes:explicit>no</itunes:explicit>
+
+        <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+        <item>
+            <title>Last Call Episode 1</title>
+            <description>Beam Suntory Last Call Episode 1</description>
+            <link>http://p.widencdn.net/pwzuik/Last-Call-Episode-1---CONNECT</link>
+            <!-- <enclosure url="./podcasts/PodCask - Beam Suntory - Epidsode 1 - CONNECT.mp3" type="audio/mpeg" length="8376891"></enclosure> -->
+            <enclosure url="https://9cxjmq.dm.files.1drv.com/y4mbVGLfOZ-xoHZ3m6R0ejGzk_ctAojMxq6KSyh3RXBTBKZvE-S_G2VMKL1BKij-q1JPNDDx4YUs0siL6V6_7sm7yErGyiyaQy33A9VLDd9qpn5IdNRSE7jTm-VArL1Fk9VkY2IIoC9Xb6ERU6xOPpS1svrbRE_czM3pGz3tyynPFL2SvHot-ERDQS0tUICiAAL-qdZoU3hdx69BgHVqVmZdA/PodCask%20-%20Beam%20Suntory%20-%20Epidsode%201%20-%20CONNECT.mp3?download&psid=1" type="audio/mpeg" length="8376891"></enclosure>
+            <pubDate>Sun, 04 Nov 2018 00:00:00 EST</pubDate>
+            <itunes:summary>Beam Suntory Last Call Episode 1</itunes:summary>
+            <itunes:subtitle>Last Call 1</itunes:subtitle>
+            <itunes:duration>0:08:43</itunes:duration>
+            <!-- this is actually ok, because it resolves to a webpage not the media -->
+            <guid>http://p.widencdn.net/pwzuik/Last-Call-Episode-1---CONNECT</guid>
+        </item>
+        <!--END REPEAT-->
+
+    </channel>
+</rss>
