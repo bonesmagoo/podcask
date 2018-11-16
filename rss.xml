@@ -34,12 +34,11 @@
             <title>Last Call Episode 1</title>
             <description>Beam Suntory Last Call Episode 1</description>
             <link>http://p.widencdn.net/pwzuik/Last-Call-Episode-1---CONNECT</link>
-            <enclosure url="https://onedrive.live.com/download?cid=81029E1FDA39B60A&amp;resid=81029E1FDA39B60A%211136169&amp;authkey=AHcBfZ5pQXGcgHU" type="audio/mpeg" length="8376891"></enclosure>
+            <enclosure url="https://embed.widencdn.net/audio/beamsuntory/kkgajz12wu/Last-Call-Episode-1---CONNECT.mp3" type="audio/mpeg" length="8376891"></enclosure>
             <pubDate>Sun, 04 Nov 2018 00:00:00 EST</pubDate>
             <itunes:summary>Beam Suntory Last Call Episode 1</itunes:summary>
             <itunes:subtitle>Last Call 1</itunes:subtitle>
             <itunes:duration>0:08:43</itunes:duration>
-            <!-- this is actually ok, because it resolves to a webpage not the media -->
             <guid>http://p.widencdn.net/pwzuik/Last-Call-Episode-1---CONNECT</guid>
         </item>
         <!--END REPEAT-->
